@@ -1,0 +1,5 @@
+# FastAPI framework
+fastapi[standard]==0.115.12
+
+#uvicorn
+uvicorn[standard]==0.34.2

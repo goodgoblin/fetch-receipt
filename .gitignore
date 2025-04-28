@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE/editor files (common)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Docker related (if needed)
+*.dockerignore
+
+# Environments and secrets (if applicable)
+.env
+.env.*
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage report files
+htmlcov/
+.coverage
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+
